@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript and Tailwind**
 
-- 💼 Visit my porfolio: <a href="https://bit.ly/lenny_fullstack" target="blank">Portfolio</a>
+- 💼 Visit my porfolio: <a href="https://lennysnaiderman.netlify.app/" target="blank">Portfolio</a>
 
 - 📫 How to reach me <a href="http://wa.link/h7mkgt" target="blank">Whatsapp</a>
 
